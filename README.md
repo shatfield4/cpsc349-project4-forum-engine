@@ -1,14 +1,13 @@
 # cpsc349-project4
 
-Our group created a forum engine using react, tailwindcss, and pocketbase
-The repository contains CPSC349 Project 4
+Our group created a forum engine using react, tailwindcss, and pocketbase. The repository contains CPSC349 Project 4.
 
 ## Group members:
 
-Sean Hatfield
-Kevin Cacho
-Daniel Moran
-Rodrigo Onate 
+- Sean Hatfield
+- Kevin Cacho
+- Daniel Moran
+- Rodrigo Onate 
 
 ## Setup Instructions
 
